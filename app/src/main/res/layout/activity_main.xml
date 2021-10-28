@@ -173,7 +173,7 @@
             android:id="@+id/playAgain"
             android:layout_weight="1"
             android:layout_margin="5dp"
-            android:textSize="15sp"
+            android:textSize="25sp"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:backgroundTint="@color/yellow"
@@ -185,8 +185,7 @@
             android:layout_margin="5dp"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:padding="15dp"
-            android:textSize="15sp"
+            android:textSize="25sp"
             android:backgroundTint ="@color/red"
             android:text="@string/reboot" />
     </LinearLayout>
