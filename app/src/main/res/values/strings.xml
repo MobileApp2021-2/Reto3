@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Reto3</string>
+    <string name="first_human">You go first.</string>
+    <string name="turn_human">Your turn.</string>
+    <string name="first_computer">Android\'s first.</string>
+    <string name="turn_computer">Android\'s turn.</string>
+    <string name="result_tie">It\'s a tie.</string>
+    <string name="result_human_wins">You won!</string>
+    <string name="result_computer_wins">Android won!</string>
+    <string name="human_wins">Human: </string>
+    <string name="computer_wins">Computer: </string>
+    <string name="play_again">Play Again</string>
+    <string name="reboot">Restart Game</string>
+    <string name="ties">Ties: </string>
+</resources>
